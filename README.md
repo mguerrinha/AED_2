@@ -1,2 +1,2 @@
 # Flight Management System
-## Grade (18,6/20)
+## Grade: 18.6/20
